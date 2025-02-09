@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/camila-alonso/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=camila-alonso&theme=radical&show_icons=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=camila-alonso&rank_icon=github&theme=radical&show_icons=true" />
   </a>
   <a href="https://github.com/camila-alonso/convoychat">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=camila-alonso&layout=compact&langs_count=8&card_width=200&theme=radical&show_icons=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=camila-alonso&layout=compact&langs_count=8&card_width=200&theme=radical&show_icons=true" />
   </a>
 </p>
 
